@@ -16,6 +16,8 @@
 
 This plugin simply displays the Redmine version information in the footer.
 
+![Redmine Version Footer](https://github.com/user-attachments/assets/b7a2e5fd-e7f2-4867-b763-1756ede247f5)
+
 # 📦 Installation
 
 Place this plugin in the Redmine plugins directory.
