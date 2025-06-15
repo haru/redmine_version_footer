@@ -1,3 +1,0 @@
-= redmine_version_footer
-
-Description goes here
