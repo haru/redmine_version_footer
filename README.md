@@ -1,11 +1,11 @@
-# Redmine Version Fotter
+# Redmine Version Footer
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 [![build](https://github.com/haru/redmine_version_footer/actions/workflows/build.yml/badge.svg)](https://github.com/haru/redmine_version_footer/actions/workflows/build.yml)
 [![Maintainability](https://qlty.sh/badges/a0cabed6-3c2d-4eb2-a7b0-2cd58e6fdf72/maintainability.svg)](https://qlty.sh/gh/haru/projects/redmine_version_footer)
 ![Redmine](https://img.shields.io/badge/redmine-5.0%2C5.1%2C6.0-blue?logo=redmine&logoColor=%23B32024&labelColor=f0f0f0&link=https%3A%2F%2Fwww.redmine.org)
 
-- [Redmine Version Fotter](#redmine-version-fotter)
+- [Redmine Version Footer](#redmine-version-footer)
 - [✨ Features](#-features)
 - [📦 Installation](#-installation)
 - [🤝 Contributing](#-contributing)
