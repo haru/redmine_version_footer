@@ -8,6 +8,6 @@ Redmine::Plugin.register :redmine_version_footer do
   author_url "https://github.com/haru"
   requires_redmine :version_or_higher => "5.0.0"
 
-  version '0.0.1'
+  version '1.0.0'
 
 end
