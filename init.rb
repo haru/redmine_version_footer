@@ -1,5 +1,5 @@
 $LOAD_PATH.unshift "#{File.dirname(__FILE__)}/lib"
-require 'version_footer/view_hook'
+require_dependency 'version_footer/view_hook'
 Redmine::Plugin.register :redmine_version_footer do
   name 'Redmine Version Footer plugin'
   author 'Haruyuki Iida'
